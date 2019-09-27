@@ -11,3 +11,6 @@ The purpose of the project is to provide simple Git training.
 this is a web project , deployment can be any web server or even local file system.
 ## How to Contribute
 
+### Copyright 
+2014 GIT Traning 
+
